@@ -9,3 +9,7 @@ const t = () => {
 const t = () => {
     const r = '3 commit'
 }
+
+const t = () => {
+    const r = '4 commit'
+}
